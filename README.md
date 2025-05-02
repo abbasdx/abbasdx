@@ -10,8 +10,6 @@ I'm Abbas, a passionate Android developer who loves crafting elegant mobile apps
 - 📬 Reach me at: [abbasansari.work@gmail.com](mailto:abbasansari.work@gmail.com)  
 - 🔗 Connect on [LinkedIn](https://linkedin.com/in/abbas-ansari)
 
----
-
 ## 🛠 Tech Stack
 
 <p>
@@ -23,13 +21,4 @@ I'm Abbas, a passionate Android developer who loves crafting elegant mobile apps
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbasdx&show_icons=true&theme=tokyonight" alt="abbasdx's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasdx&layout=compact&theme=tokyonight" />
 </p>
