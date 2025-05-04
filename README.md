@@ -3,9 +3,9 @@
 I'm Abbas, a passionate Android developer who loves crafting elegant mobile apps. With a focus on **Jetpack Compose**, I enjoy turning UI/UX designs into real, smooth, and responsive experiences.
 
 - 🔭 Currently working on a **HealthMate Go App**
-- 🚀 Recently started exploring **Flutter**
+- 🌱 Recently started exploring **Flutter** for cross-platform development
 - ✍️ Writing readable, testable, and scalable code
-- 💬 Open to Android collaborations and freelance projects
+- 💬 Open to **Android collaborations**, **internships**, and freelance projects
 - 📍 Based in Gorakhpur  
 - 📬 Reach me at: [abbasansari.work@gmail.com](mailto:abbasansari.work@gmail.com)  
 - 🔗 Connect on [LinkedIn](https://linkedin.com/in/abbas-ansari)
