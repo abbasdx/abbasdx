@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, Welcome to my Github page!</h1>
 
-I'm Abbas, a passionate Android developer who loves crafting elegant mobile apps. With a focus on **Jetpack Compose**, I enjoy turning UI/UX designs into real, smooth, and responsive experiences.
+I'm Abbas, a passionate Android developer and a **3rd year Computer Science Engineering student** who loves crafting elegant mobile apps. With a focus on **Jetpack Compose**, I enjoy turning UI/UX designs into real, smooth, and responsive experiences.
 
 - 🔭 Currently working on a **HealthMate Go App**
 - 🌱 Recently started exploring **Flutter** for cross-platform development
