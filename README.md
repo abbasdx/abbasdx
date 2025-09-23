@@ -69,13 +69,3 @@ A passionate **Mobile Developer** and a 4th-year **Computer Science Engineering*
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
-
-
-## 📊 GitHub Stats & Languages
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=abbasdx&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasdx&layout=compact&theme=radical" alt="Top Languages" height="170"/></td>
-  </tr>
-</table>
