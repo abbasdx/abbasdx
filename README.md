@@ -2,7 +2,7 @@
 
 A passionate **Mobile Developer** and a 4th-year **Computer Science Engineering** student who loves crafting elegant, user-friendly apps. With expertise in **Jetpack Compose**, **Flutter**, and modern development architectures, I enjoy transforming UI/UX designs into smooth, responsive, and production-ready solutions.
 
-- 🛒 Building **@Azyro** — a modern e-commerce mobile app with admin panel
+- 🛠️ Building **TaskTracker** - a production-ready Spring Boot backend for task tracking and automated reminders
 - ✍️ Writing clean, testable, and scalable code
 - 🌱 Currently exploring **Spring Boot** and **REST API development** to level up my backend skills  
 - 💬 Open for **collaborations**, **internships**, and freelance opportunities  
