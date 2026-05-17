@@ -94,8 +94,10 @@ Backend-focused developer with hands-on experience in Java and Spring Boot, buil
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasdx&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abbasdx&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="Center">
+  <img 
+    width="48%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abbasdx&theme=tokyonight&hide_border=true&from=2025-01-01"
+  />
 </p>
+
