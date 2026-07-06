@@ -105,7 +105,7 @@ Data Structures & Algorithms · OOP · DBMS · Operating Systems · Networking �
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasdx&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats-bice-mu-58.vercel.app/api/top-langs/?username=abbasdx&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=replai-frontend,nexpay-frontend,tasktracker,healthmate&hide=jupyter%20notebook,cmake,swift" alt="Top Languages" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasdx&theme=tokyonight&from=2025-01-01" alt="GitHub Streak" height="150"/>
 </div>
 
